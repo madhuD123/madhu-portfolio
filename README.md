@@ -6,7 +6,8 @@ Welcome! I’m a Data Analyst passionate about transforming data into actionable
 
 ## 🔹 About Me
 
-- Master of Information Systems Management – Edith Cowan University 
+- Master of Information Systems Management – Edith Cowan University
+- Currently working as a coordinator/ administrative assistant at Crown Perth
 - Recently completed a Data Analyst Internship at Galvin Engineering  
 - Skilled in dashboarding, SQL database optimisation, data automation, Excel, Python and business process improvement  
 - Currently preparing for Microsoft Azure DP-900 certification  
