@@ -9,7 +9,7 @@ Welcome! I’m a Data Analyst passionate about transforming data into actionable
 - Master of Information Systems Management – Edith Cowan University
 - Currently working as a coordinator/ administrative assistant at Crown Perth
 - Recently completed a Data Analyst Internship at Galvin Engineering  
-- Skilled in dashboarding, SQL database optimisation, data automation, Excel, Python and business process improvement  
+- Skilled in dashboarding,Power BI, SQL database optimisation, data automation, Excel, Python and business process improvement  
 - Currently preparing for Microsoft Azure DP-900 certification  
 
 ---
@@ -61,7 +61,20 @@ Welcome! I’m a Data Analyst passionate about transforming data into actionable
 
 **Outcome:** Improved data accuracy and reporting efficiency, increased customer retention by 10%, and enhanced operational efficiency.
 
-### 4. Database Management System (DBMS) Project – Academic
+### 4. Retail Sales Analysis – Power BI Project
+
+**Objective:** Build a Power BI dashboard to analyze retail sales performance across regions, product categories, and customer segments to support decision-making.
+
+**Key Tasks:**  
+- Developed interactive Power BI dashboards for sales trends, profit, quantity sold, and customer insights  
+- Applied DAX calculations for KPIs such as YoY Sales, Profit Margin, and Customer Segmentation  
+- Created dynamic visuals to monitor top-selling products, underperforming items, and regional trends  
+- Used slicers to filter by category, year, customer type, and state  
+- Integrated map visualizations to show regional sales performance  
+
+**Outcome:** Provided a data-driven overview of retail operations, identified sales growth opportunities, improved product planning, and demonstrated strong Power BI development skills.
+
+### 6. Database Management System (DBMS) Project – Academic
 
 **Objective:** To design and implement a complete database solution for a real-world business scenario, including case analysis, ER modelling, SQL development, and reporting.
 
@@ -82,7 +95,7 @@ Welcome! I’m a Data Analyst passionate about transforming data into actionable
 
 **Outcome:** Delivered a fully functional relational database system and analytical report that demonstrated key DBMS principles including normalization, query efficiency, and data-driven decision making.
 
-5. Fruit Nutrition Tracker – Python Project
+7. Fruit Nutrition Tracker – Python Project
 
 **Objective:** To create a console-based Python application that manages a list of fruits and their nutritional data, allowing users to add, view, search, and delete fruit records saved in a file.
 
@@ -101,7 +114,7 @@ Welcome! I’m a Data Analyst passionate about transforming data into actionable
 
 **Outcome:** Successfully implemented a text-based fruit tracker that demonstrates file handling, user input validation, list/dictionary management, and simple data persistence in Python.
 
-### 6. Enterprise Architecture Evaluation and Modelling – Academic Project
+### 8. Enterprise Architecture Evaluation and Modelling – Academic Project
 
 **Objective:** To evaluate the WA Enterprise Architecture Framework (WA-EAF) and compare it with the EA3 Cube Framework, followed by modelling a WA Government service using ArchiMate.
 
@@ -116,7 +129,7 @@ Welcome! I’m a Data Analyst passionate about transforming data into actionable
 **Outcome:** Delivered a comprehensive report and enterprise model that demonstrated EA framework understanding, analytical thinking, and practical modelling skills using ArchiMate.
 
 
-### 7. Business Process Management – Academic Project
+### 9. Business Process Management – Academic Project
 
 **Objective:** To analyze and redesign a complex business process (university application processing for a postgraduate program) using BPM techniques such as Fishbone Diagrams, Devil’s Quadrangles, and TO-BE modelling.
 
@@ -131,7 +144,7 @@ Welcome! I’m a Data Analyst passionate about transforming data into actionable
 
 **Outcome:** Produced a comprehensive business process improvement report with practical redesign recommendations. Demonstrated skills in BPMN, problem-solving, and process evaluation using real-world academic scenarios.
 
-### 8. IT Value Realisation – Town of Olive Orchard (Academic Project)
+### 10. IT Value Realisation – Town of Olive Orchard (Academic Project)
 
 **Objective:** To deliver a strategic ICT transformation proposal for the Town of Olive Orchard, addressing system inefficiencies, cybersecurity risks, digital accessibility, and infrastructure limitations aligned with the 2024–2033 Strategic Plan.
 
