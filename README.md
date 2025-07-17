@@ -74,6 +74,25 @@ Welcome! I’m a Data Analyst passionate about transforming data into actionable
 
 **Outcome:** Provided a data-driven overview of retail operations, identified sales growth opportunities, improved product planning, and demonstrated strong Power BI development skills.
 
+### 5.  ATM Transaction Analysis – Power BI Project
+**Objective:**
+To design and build an interactive Power BI dashboard that analyzes ATM transactions across regions, customer segments, transaction types, and time, enabling detection of high-value activity and underperforming ATMs.
+
+**Key Tasks:**
+
+Built a 5-page Power BI report covering KPIs, customer demographics, location performance, service trends, and anomaly detection
+Developed KPI cards showing Total Transactions, Total Amount, Average Transaction Value, and Unique Customers
+Created drillable visuals including combo charts, matrix tables, line/area trends, and donut charts
+Applied custom DAX measures to flag high-value transactions, identify idle ATMs, and detect daily spikes
+Used matrix hierarchies and drill-down features (e.g., Region → ATM, Month → Day) for deeper analysis
+Added slicers for filtering by date, region, ATM location, transaction type, occupation, and gender
+Structured a dedicated "Measures" table to organize all custom DAX queries
+Applied conditional formatting to highlight low-usage ATM performance in matrix visuals
+Exported report to PDF and prepared for presentation/portfolio use
+
+**Outcome:**
+Delivered a dynamic and insightful Power BI dashboard that simulates ATM performance monitoring in a banking environment. Demonstrated advanced DAX usage, strong data storytelling, and professional dashboard design aligned with industry practices.
+
 ### 6. Database Management System (DBMS) Project – Academic
 
 **Objective:** To design and implement a complete database solution for a real-world business scenario, including case analysis, ER modelling, SQL development, and reporting.
