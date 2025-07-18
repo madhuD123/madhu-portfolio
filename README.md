@@ -190,7 +190,41 @@ Delivered a dynamic and insightful Power BI dashboard that simulates ATM perform
 
 **Outcome:** Presented a robust IT transformation case to improve operational efficiency, reduce long-term costs, enhance sustainability, and deliver accessible services. The project showcased data-driven decision-making, financial and non-financial evaluation, and public sector ICT strategy development.
 
+###11. Python Applications – Academic Projects (Programming Principles)
+Objective: To design and implement beginner-to-intermediate level Python applications using structured programming concepts, data persistence (JSON), GUI development with Tkinter, and problem-solving techniques. These projects focused on improving user interaction, file handling, data visualization, and logic development using Python.
 
+**Key Projects & Tasks:**
+**Fruit Admin Console System (CLI):
+Created a command-line program to add, search, view, and delete fruit nutritional data.
+Integrated persistent data storage using JSON files.
+Developed input validation functions for integers, floats, and strings.
+Implemented functionality for data analysis such as average sugar content, highest vitamin C, and lowest calories.
+
+**Fruit Test – Graphical User Interface (GUI):
+Designed a Tkinter-based quiz game to test users' knowledge of fruit nutrition facts.
+Built logic to randomly generate true/false questions comparing two fruits.
+Added a countdown timer, dynamic scoring, and feedback alerts using tkinter.messagebox.
+Python Data Storage & Analysis Engine:
+Implemented utility functions like saveData() and loadInitialData() to handle structured data.
+Calculated kilojoules from calories and created summary statistics with logic-driven output.
+
+**English Word Tester (Randomized Game):
+
+Developed an interactive console game to test vocabulary and linguistic knowledge.
+Included random challenges such as vowel counting, word length, and consonant identification.
+Used random and custom logic functions to enhance learning and user engagement.
+
+**Tools & Techniques:**
+
+Python 3.11
+Tkinter (GUI Design)
+JSON File Handling
+Structured Functions & Looping Logic
+Input Validation & Exception Handling
+Random Module (Randomized Game Mechanics)
+
+**Outcome:**
+These projects showcased solid foundations in Python programming through the development of fully functional mini-applications. Key strengths included user interface design, file I/O, basic data processing, and interactive logic development. The fruit-related applications combined both GUI and CLI elements to deliver engaging, educational, and data-driven tools, reflecting a practical understanding of real-world programming principles.
 
 
 ---
